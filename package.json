@@ -1,0 +1,12 @@
+{
+  "name": "node-red-lower-case",
+  "version": "1.0.0",
+  "description": "自定义node-red节点 小写转化",
+  "author": "",
+  "license": "ISC",
+  "node-red" : {
+    "nodes": {
+      "lower-case": "lower-case.js"
+    }
+  }
+}
